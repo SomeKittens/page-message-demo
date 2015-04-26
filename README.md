@@ -43,3 +43,7 @@ Sharp-eyed coders will notice that the console only contains logs from `web.js` 
 #####Making changes
 
 Whenever you make changes to extension files (and please do!  Noodle around as much as you need to), you'll need to refresh the extension itself, which is fairly easy - just refresh Chrome's extension page.
+
+##Thanks
+
+Thanks to [Zirak](https://github.com/zirak) for helping me learn all the ins and outs of extension management
